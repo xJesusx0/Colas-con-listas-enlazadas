@@ -1,7 +1,8 @@
 package colasconlistas;
 
 import static colasconlistas.Metodos.*;
-import	static colasconlistas.ListasEnlazadas.*;
+import static colasconlistas.ListasEnlazadas.*;
+
 public class Main {
 
     static Nodo cabeza = null;
